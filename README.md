@@ -59,7 +59,7 @@ For any inquiries or support related to the Badge Generator project, you can rea
 
 We look forward to seeing you at the Cybersecurity Seassides Conference in Goa this September and hope you enjoy using the Badge Generator to create your personalized badges. Have a great conference experience!
 
-![Badge Generator](https://seasides-conf.web.app//path/to/project-logo.png)
+[Badge Generator](https://seasides-conf.web.app)
 
 
 > Seasides Conf Badge Generator based on [**GDE Badge Generator by Henry Lim**](https://github.com/limhenry/gde-badge-generator)
