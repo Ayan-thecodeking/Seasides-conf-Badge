@@ -54,7 +54,8 @@ Feel free to explore the codebase, contribute improvements, or report any issues
 
 ## Contact
 
-For any inquiries or support related to the Badge Generator project, you can reach out to us at [growwithayan111@gmail.com] We appreciate your feedback and suggestions!
+For any inquiries or support related to the Badge Generator project, you can reach out to us at [Email Me](growwithayan111@gmail.com)
+ We appreciate your feedback and suggestions!
 
 We look forward to seeing you at the Cybersecurity Seassides Conference in Goa this September and hope you enjoy using the Badge Generator to create your personalized badges. Have a great conference experience!
 
