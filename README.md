@@ -54,14 +54,14 @@ Feel free to explore the codebase, contribute improvements, or report any issues
 
 ## Contact
 
-For any inquiries or support related to the Badge Generator project, you can reach out to our team at [email protected] We appreciate your feedback and suggestions!
+For any inquiries or support related to the Badge Generator project, you can reach out to us at [growwithayan111@gmail.com] We appreciate your feedback and suggestions!
 
 We look forward to seeing you at the Cybersecurity Seassides Conference in Goa this September and hope you enjoy using the Badge Generator to create your personalized badges. Have a great conference experience!
 
 ![Badge Generator](/path/to/project-logo.png)
 
 
-> DevFest Raipur 2022 Badge Generator based on [**GDE Badge Generator by Henry Lim**](https://github.com/limhenry/gde-badge-generator)
+> Seasides Conf Badge Generator based on [**GDE Badge Generator by Henry Lim**](https://github.com/limhenry/gde-badge-generator)
 
 
 
