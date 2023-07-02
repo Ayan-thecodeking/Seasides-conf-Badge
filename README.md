@@ -13,9 +13,6 @@ This project is built using
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
-<h3>
-Contributors:
-</h3>
 
 Welcome to the Badge Generator project for the Cybersecurity Seassides Conference in Goa! This project allows students attending the conference to generate personalized badges with their images and easily share them on their social media handles. The project is built using HTML, CSS, JavaScript, and Firebase.
 
